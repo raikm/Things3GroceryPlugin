@@ -1,4 +1,4 @@
-# Things3 Grocery Plugin
+# 📥Things3 Grocery Plugin
 
 The aim of this project is to create a "smart" grocery list that categories the articles based on categories (vegetables, meat, milk-products,... ) but should relearn if the user changes orders. This includes also the order of the categories since supermarkets have different architecture (first vegetables then meat and so on)
 Do get fast results and don't make compromise on design, the first step is a connection to a todo app (Things3).
