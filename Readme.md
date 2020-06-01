@@ -13,3 +13,5 @@ For the beginning of the project to focus is on the algorithm in the background 
 - try to use AI in a real project
 - things3 API connection
 - connection to a grocery API?
+
+![](resources/concept_idea.png)
