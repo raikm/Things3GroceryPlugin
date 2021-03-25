@@ -14,4 +14,10 @@ For the beginning of the project to focus is on the algorithm in the background 
 - things3 API connection
 - connection to a grocery API?
 
+
+## Ideas
+
+- Use available database as training data 
+- Create roadmap of categories for supermarket profiles (future work Chang in UI) first just static with DB and static numeration
+
 ![](resources/concept_idea.png)
